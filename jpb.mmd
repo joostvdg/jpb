@@ -1,0 +1,6 @@
+graph TD;
+    Core-->Api;
+    Test--use-->Core;
+    Cli-->Api;
+    Core-. expose .->Test;
+    Core-. provides .->Api;
