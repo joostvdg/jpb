@@ -1,6 +1,6 @@
-# jpb
+# Jenkins Pipeline Binary (JPB)
 
-Jenkins Pipeline Binary
+Small Java 11 based tool for building binary CLI's for use ing Jenkins Pipelines.
 
 ## Model
 
